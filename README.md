@@ -1,2 +1,2 @@
-# Embeded-C
+# Embedded-C
 # C-program
